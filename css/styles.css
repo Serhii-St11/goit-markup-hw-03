@@ -240,14 +240,12 @@ img {
   text-transform: capitalize;
   margin-bottom: 72px;
   padding-top: 110px;
-  border-radius: 0px 0px 4px 4px;
 }
 
 .team-section-text {
   font-weight: 400;
   font-size: 16px;
   color: #434455;
-  margin-bottom: 32px;
   text-align: center;
 }
 
@@ -269,12 +267,9 @@ img {
   background-color: #ffffff;
 }
 
-.team-section-foto {
-  border-radius: 0px 0px 4px 4px;
-}
-
 .team-container {
   padding: 32px 0;
+  border-radius: 0px 0px 4px 4px;
 }
 
 /* portfolio section */
