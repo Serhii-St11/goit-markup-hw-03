@@ -240,6 +240,7 @@ img {
   text-transform: capitalize;
   margin-bottom: 72px;
   padding-top: 110px;
+  border-radius: 0px 0px 4px 4px;
 }
 
 .team-section-text {
@@ -287,10 +288,6 @@ img {
   justify-content: space-between;
   gap: 24px;
   row-gap: 48px;
-}
-
-.portfolio-list-img {
-  margin-bottom: 32px;
 }
 
 .portfolio-container {
