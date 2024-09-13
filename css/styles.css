@@ -290,7 +290,11 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
-
+.portfolio-text {
+  font-size: 16px;
+  color: #434455;
+  margin-left: 16px;
+}
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -310,12 +314,6 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
-  margin-left: 16px;
-}
-
-.portfolio-text {
-  font-size: 16px;
-  color: #434455;
   margin-left: 16px;
 }
 
