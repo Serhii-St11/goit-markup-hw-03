@@ -266,10 +266,12 @@ img {
 .team-item {
   background-color: #ffffff;
 }
+.team-section-foto {
+  border-radius: 0px 0px 4px 4px;
+}
 
 .team-container {
   padding: 32px 0;
-  border-radius: 0px 0px 4px 4px;
 }
 
 /* portfolio section */
@@ -295,6 +297,7 @@ img {
   color: #434455;
   margin-left: 16px;
 }
+
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
