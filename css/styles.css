@@ -228,8 +228,7 @@ img {
 /* ------team-section------ */
 .team-section {
   background-color: #f4f4fd;
-  padding-top: 110px;
-  padding-bottom: 130px;
+  padding: 120px;
 }
 
 .team-section-title {
@@ -277,8 +276,8 @@ img {
 
 /* ----portfolio section----- */
 .portfolio-section {
-  padding-top: 110px;
-  padding-bottom: 114px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .portfolio-title {
