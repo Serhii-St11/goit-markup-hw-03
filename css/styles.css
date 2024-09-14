@@ -80,8 +80,6 @@ img {
 .logo-black {
   font-family: "Raleway", sans-serif;
   color: #2e2f42;
-
-
 }
 
 .nav-list {
@@ -152,14 +150,7 @@ img {
   text-align: center;
   justify-content: center;
   padding: 188px 0;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.hero-button {
-  display: flex;
-  justify-content: center;
+  margin: auto;
 }
 
 .hero-section-title {
@@ -173,7 +164,11 @@ img {
   max-width: 496px;
   margin-bottom: 48px;
 }
-
+.hero-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .button {
   display: block;
   font-weight: 500;
@@ -187,7 +182,6 @@ img {
   height: 56px;
   border-radius: 4px;
   border: none;
-
   padding: 16px 32px;
 }
 
@@ -236,7 +230,7 @@ img {
 }
 
 .team-container {
-  margin: 32px 16px;
+  padding: 32px 16px;
 }
 
 .team-item {
